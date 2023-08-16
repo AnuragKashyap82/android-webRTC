@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "59492170557",
+    "project_id": "webrtc-android-27acb",
+    "storage_bucket": "webrtc-android-27acb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59492170557:android:c71f418173d5da81372354",
+        "android_client_info": {
+          "package_name": "com.anurag.webrtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59492170557-7shan4v78j0gduub55dshdtv53f28l8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvHpck_yFxZdJ-USLd65AKZtcM076RQWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59492170557-7shan4v78j0gduub55dshdtv53f28l8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
